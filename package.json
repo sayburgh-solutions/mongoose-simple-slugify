@@ -1,0 +1,41 @@
+{
+  "name": "mongoose-simple-slugify",
+  "version": "1.0.0",
+  "description": "Mongoose plugin for generating slugs in a simpler way.",
+  "main": "index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext .js --cache --fix --ignore-path .gitignore ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhsinchy/mongoose-simple-slugify.git"
+  },
+  "keywords": [
+    "mongoose",
+    "simple",
+    "slugify",
+    "plugin"
+  ],
+  "author": "Farhan Hasin Chowdhury (fhsinchy) <mail@farhan.info> (https://www.farhan.info)",
+  "contributors": [
+    "M H Hasib (mahmudulhsn) <hasib.mahmudul@gmail.com> (https://www.mhhasib.com)",
+    "Mubinur Rahman (mubin86) <rahman.mmubinur@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhsinchy/mongoose-simple-slugify/issues"
+  },
+  "homepage": "https://github.com/fhsinchy/mongoose-simple-slugify#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.2.0",
+    "prettier": "^2.0.5"
+  }
+}
