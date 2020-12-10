@@ -1,4 +1,4 @@
-# mongoose-simple-slugify ![npm](https://img.shields.io/npm/dw/mongoose-simple-slugify)
+# mongoose-simple-slugify ![npm](https://img.shields.io/npm/v/mongoose-simple-slugify) ![npm](https://img.shields.io/npm/dw/mongoose-simple-slugify)
 
 A simple language agnostic `mongoose` plugin for generating unique slugs from a given string.
 
