@@ -2,6 +2,12 @@
 
 A simple language agnostic `mongoose` plugin for generating unique slugs from a given string.
 
+## Development Task List
+- [x] Create Operation
+- [x] Single Update Operation
+- [ ] Multiple Update Operation
+
+
 ## Installation
 Installation is as simple as any other `npm` package:
 
