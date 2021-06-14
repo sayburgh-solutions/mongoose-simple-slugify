@@ -1,6 +1,6 @@
 {
   "name": "mongoose-simple-slugify",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Mongoose plugin for generating slugs in a simpler way.",
   "main": "index.js",
   "directories": {
